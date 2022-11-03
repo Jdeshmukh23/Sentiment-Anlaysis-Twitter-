@@ -1,8 +1,8 @@
 # Sentiment-Anlaysis-Twitter-
 This repository contains two projects which deal with the sentiment analysis on Twitter feed and on downlaoded dataset.
-By Jayesh Deshmukh. 
-Os used - windows
-Python version - 3
+..* By Jayesh Deshmukh. 
+1. Os used - windows
+2. Python version - 3
 
 # Introduction:
      Sentiment Analysis is a process of "computationaly" determining the attitude of a peice of writing.That is, weather the text is possitive, negative, or neutral. It is also known as "Opinion Mining"
