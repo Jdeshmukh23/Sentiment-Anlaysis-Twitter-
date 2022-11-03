@@ -1,6 +1,6 @@
 # Sentiment-Anlaysis-Twitter-
 This repository contains two projects which deal with the sentiment analysis on Twitter feed and on downlaoded dataset.
-..* By Jayesh Deshmukh. 
+..*By Jayesh Deshmukh. 
 1. Os used - windows
 2. Python version - 3
 
