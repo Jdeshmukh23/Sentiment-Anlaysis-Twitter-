@@ -8,7 +8,7 @@ This repository contains two projects which deal with the sentiment analysis on 
 # Introduction :
 * Sentiment Analysis is a process of "computationaly" determining the attitude of a peice of writing.That is, weather the text is possitive, negative, or neutral. It is also known as "Opinion Mining"
 ### Why is Twitter used for sentiment analysis ?
-*As of 2022,twitter is the go to micro blogging site for people to express their opinions about vast array of topics. By analysing the tweets of all these users, we can figure out the average overall sentiment of the people about the topic.
+* As of 2022,twitter is the go to micro blogging site for people to express their opinions about vast array of topics. By analysing the tweets of all these users, we can figure out the average overall sentiment of the people about the topic.
 # Objective : 
 * The objective of this project is to develop a python script that can input a perticular query from a user ( in this case - KL Rahul), foramt received tweets in unformatted plain text , remove any icons, remove redundant words, identify the sentiment of the users (positive, negative, neutral) towards this particular query, and then visualise it in a pie chart. A word cloud is also created to identify all the words that are most associated with this particular query.
 * Note : To access tweets from twitter , you will need twitter API keys. To get those keys you will need to have a twitter developer account.  
